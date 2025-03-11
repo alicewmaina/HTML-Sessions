@@ -1,0 +1,13 @@
+Elements =>tags, attributes and content
+tags define Elements <>
+
+opening tag <tagname>
+
+closing tag </tagname>
+
+<p>...CONTENT...</p>
+
+<img> -self closing or void Elements
+
+attributes
+<img src "">
